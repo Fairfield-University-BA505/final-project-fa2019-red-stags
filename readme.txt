@@ -54,7 +54,7 @@ The homocide dataset consists of 24 columns and 638,454 rows each. Here are the 
         - The weapon the crime was committed with 
         
 Report Steps
-This report consists of 4 major parts:
+This report consists of 5 major parts:
 1. Data Exploration
     - Overview and understanding of the data
     - Finding Errors
@@ -66,7 +66,7 @@ This report consists of 4 major parts:
 4. Decision Trees
     - Encode data
     - Decision tree model
-4. Application to a specific scenario
+5. Application to a specific scenario
     - Analysis of homicide data for Hartford, Connecticut
     - Hartford Police and education department competing for a fictional $1,000,000 grant to reduce its homicide rate
 

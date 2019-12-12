@@ -1,4 +1,4 @@
-Please use US_Homicide_Full_Report.ipynb, and Presentation_FInal.ipynb for grading
+Please use US_Homicide_Full_Report.ipynb, and Presentation_Final.ipynb for grading
 
 Objectives:
 The goal of this report is to learn in detail about the history of US homocides and its trends. Later on the report will focus on 1 district, Hartford County, CT.
